@@ -1,2 +1,2 @@
 # nextjs-dashboard
-learn nextjs for the lulz
+learn nextjs and first PR
